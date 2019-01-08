@@ -1,0 +1,26 @@
+#companyWrapper{
+  width: 52%;
+  margin-left: 24%;
+  margin-top: 15%;
+  position:absolute;
+  background-color: lightgoldenrodyellow;
+font-size: 17px;
+border: ghostwhite;
+border-bottom-style: outset;
+  border-top-style: groove;
+  /* background: linear-gradient(white,rgb(172, 206, 238) 50%,rgb(131, 179, 223) 50%); */
+}
+
+#headerWrapper{
+position:absolute;
+  padding-top: 10%;
+  padding-left: 45%;
+}
+
+#table 
+{
+background-color: lightgoldenrodyellow;
+font-size: 17px;
+border: black;
+}
+
